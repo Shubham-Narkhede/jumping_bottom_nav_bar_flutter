@@ -1,7 +1,6 @@
 name: jumping_bottom_nav_bar_flutter
 description: A new Flutter package project.
-version: 0.0.1
-author: Shubham Narkhede<Shubham.narkhede8@gmail.com>
+version: 0.0.2
 homepage: https://github.com/Shubham-Narkhede/jumping_bottom_nav_bar_flutter.git
 
 environment:
