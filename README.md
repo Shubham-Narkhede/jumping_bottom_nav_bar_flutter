@@ -1,6 +1,6 @@
 # jumping_bottom_nav_bar_flutter
 
-A new Flutter package project.
+A new Flutter package project for animated bottom naviagtion bar.
 
 ## Getting Started
 
