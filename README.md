@@ -8,6 +8,11 @@ A new Flutter package project for animated bottom naviagtion bar.
 
 ## Add plugin in your pubspec.yaml file 
 
-[a link](https://pub.dev/packages/jumping_bottom_nav_bar_flutter)
+[Jumping Bottom Navigation Bar](https://pub.dev/packages/jumping_bottom_nav_bar_flutter)
+
+## My flutter Application on Play store please visit
+
+[Send Message without saving Number](https://play.google.com/store/apps/details?id=com.shubham.flutter_whats_me)
+
 
 
